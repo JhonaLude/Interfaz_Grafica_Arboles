@@ -14,7 +14,7 @@ Version 2.0
 Recorridos
 
 
-Inorden
+InOrden
 
 ![image](https://github.com/user-attachments/assets/b739888b-330b-4b98-bba8-bc943a65bfc5)
 
